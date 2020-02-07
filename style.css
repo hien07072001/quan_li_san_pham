@@ -1,0 +1,23 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: url("khau trang 1.jpg") no-repeat;
+    background-size:1500px;
+}
+.login-box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: darkgreen;
+}
+.textbox{
+    width:100%;
+    overflow: hidden;
+    font-size: 10px;
+    padding: 10px 0;
+    margin: 30px 0;
+    border-bottom: 2px solid   #ff0033;
+}
